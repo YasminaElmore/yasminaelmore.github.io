@@ -1,0 +1,16 @@
+title: Yasmina Elmore
+description: Aerospace Engineer
+show_downloads: true
+google_analytics: # Add your Google Analytics tracking ID here if desired
+theme: jekyll-theme-cayman
+
+baseurl: ""
+
+google_analytics: 
+
+description:
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
