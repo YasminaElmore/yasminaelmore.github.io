@@ -1,6 +1,6 @@
 ---
 layout: yasmina_default
-title: "Portfolio"
+title: "Engineering Portfolio"
 ---
 
 <p style="text-align: center;">Feel free to check out some of the cool projects I've worked on in a variety of fields!</p>

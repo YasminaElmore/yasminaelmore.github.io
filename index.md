@@ -1,7 +1,7 @@
 ---
 layout: yasmina_default
 title: Yasmina Elmore
-description: Aerospace Engineer
+description: Mechanical and Aerospace Engineer
 ---
 
 <div style="text-align: center;">
