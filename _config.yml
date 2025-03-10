@@ -13,6 +13,12 @@ google_analytics:
 description:
 
 collections:
-  projects:
+  projects_mechanical_design:
     output: true
-    permalink: /projects/:title/
+    permalink: /projects_mechanical_design/:title/
+  projects_fluid_dynamics:
+    output: true
+    permalink: /projects_fluid_dynamics/:title/
+  projects_computer_science:
+    output: true
+    permalink: /projects_computer_science/:title/

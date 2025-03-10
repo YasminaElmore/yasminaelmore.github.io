@@ -1,26 +1,12 @@
 ---
 layout: yasmina_default
-title: "Engineering Portfolio"
+title: "Portfolio"
 ---
 
-{% assign sorted_projects = site.projects | sort: "date" | reverse %}
-{% assign current_year = "" %}
+<p style="text-align: center;">Feel free to check out some of the cool projects I've worked on in a variety of fields!</p>
 
-{% for project in sorted_projects %}
-  {% unless project.path contains '/unpublished/' %}
-    {% assign project_year = project.date | date: "%Y" %}
-  
-    {% if project_year != current_year %}
-      {% if current_year != "" %}
-      {% endif %}
-<br>
-## {{ project_year }}
-      {% assign current_year = project_year %}
-    {% endif %}
-  
-### [{{ project.title }}]({{ project.url }})
-
----
-
-  {% endunless %}
-{% endfor %}
+<div class="button-container">
+  <a href="/mechanicaldesign" class="portfolio-button">Mechanical Design Portfolio</a>
+  <a href="/fluiddynamics" class="portfolio-button">Fluid Dynamics Portfolio</a>
+  <a href="/computerscience" class="portfolio-button">Computer Science Portfolio</a>
+</div>
