@@ -16,4 +16,5 @@ Under construction
 </div>
 
 # Report
+<iframe src="/assets/spinning_droplets/MF206_Yasmina_ELMORE.pdf" width="100%" height="600px"></iframe>
 [Spinning Droplet Report](/assets/spinning_droplets/MF206_Yasmina_ELMORE.pdf)
