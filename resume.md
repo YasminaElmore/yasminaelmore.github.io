@@ -2,5 +2,4 @@
 layout: yasmina_default
 title: Resume
 ---
-
-# Yasmina's Resume Coming Soon...
+<iframe src="/assets/resume/Yasmina Rania Elmore-resume-job.pdf" width="100%" height="600px"></iframe>
