@@ -4,4 +4,8 @@ title: "Static Study of a Snap Fit Mechanism"
 date: 2025-01-01
 description: My example project
 ---
-This project will be updated soon, stayed tune!
+# Report
+
+Final Report:
+
+<iframe src="/assets/projects/snapfitmechansim/static study of a snap fit mechanism.pdf" width="100%" height="600px"></iframe>
