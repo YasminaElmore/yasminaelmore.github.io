@@ -1,6 +1,6 @@
 ---
 layout: yasmina_default
-title: "Deployable Sunshade Mechanism Design for Next Generation Telescope"
+title: "Product Design : Deployable Sunshade Mechanism Design for Next Generation Telescope"
 date: 2025-03-20
 description: Designed, built, and tested a deployable sunshade system, meeting engineering requirements, including material selection, structural integrity, and verification through a scaled-down prototype.
 ---

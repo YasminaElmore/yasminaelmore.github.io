@@ -1,6 +1,6 @@
 ---
 layout: yasmina_default
-title: "Stamp Design with FDM and SLA 3D Printing"
+title: "Product Design : Stamp Design with FDM and SLA 3D Printing"
 date: 2025-02-01
 description: Designed and optimized an ergonomic stamp using CAD, FEA simulations, and multimaterial 3D printing
 ---
